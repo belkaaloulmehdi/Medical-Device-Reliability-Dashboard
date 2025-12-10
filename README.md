@@ -43,7 +43,9 @@ medical-device-reliability-dashboard/
 │ └── maintenance_workflow.png
 │
 └── /reports # Additional written analysis
-└── analysis_summary.md
+│ ├── [FR]Rapport.md
+│ └── [EN]Report.md
+│
 ```
 
 ---
