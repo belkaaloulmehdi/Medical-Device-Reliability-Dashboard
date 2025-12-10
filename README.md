@@ -51,3 +51,21 @@ Clone the repository:
 ```bash
 git clone https://github.com/belkaaloulmehdi/Medical-Device-Reliability-Dashboard.git
 cd Medical-Device-Reliability-Dashboard
+```
+
+Open the Power BI dashboard:
+
+```
+medical_device_dashboard.pbix
+```
+
+Explore the three dashboard pages:
+
+- **Executive Summary** — top KPIs and global equipment performance  
+- **Failure Analysis** — trends, geographic breakdowns, and failure segmentation  
+- **Maintenance Workflow** — maintenance cost, downtime patterns, and intervention frequency  
+
+Use slicers to filter by device type, manufacturer, maintenance class, or country.
+
+---
+
