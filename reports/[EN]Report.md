@@ -120,4 +120,5 @@ This view helps identify:
 ## 👤 Author
 
 **Marouan Mehdi Belkaaloul**  
-Data Analyst — Power BI, SQL, Python, Data Modeling  
+Data Analysis Enthusiast
+
