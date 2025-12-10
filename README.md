@@ -10,7 +10,7 @@ This dashboard was created as part of a real-world portfolio exercise to demonst
 
 ---
 
-## Dataset & Context
+## 📜 Dataset & Context
 
 The dataset contains anonymized information about medical devices, including:
 
@@ -25,7 +25,7 @@ This dataset enables realistic analysis of equipment reliability and operational
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 ```
 medical-device-reliability-dashboard/
 │
@@ -69,3 +69,28 @@ Use slicers to filter by device type, manufacturer, maintenance class, or countr
 
 ---
 
+## 📊 Key Insights & Features
+
+- Total failure counts, downtime, MTTR, and maintenance cost KPIs  
+- Failure trends over time (year aggregation)  
+- High-risk device ranking (failures, cost, downtime)  
+- Manufacturer performance comparison  
+- Maintenance workflow analysis: cost structure, frequency, downtime hotspots  
+
+Designed for operational and engineering teams managing medical equipment.
+
+---
+
+## 🤝 Contributing
+Suggestions and improvements are welcome.  
+Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
+---
+
+## 📌 Author
+- **Marouan Mehdi Belkaaloul** - Data Analysis Enthusiast
