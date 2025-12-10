@@ -23,6 +23,10 @@ The dataset contains anonymized information about medical devices, including:
 
 This dataset enables realistic analysis of equipment reliability and operational cost structures.
 
+**Dataset Source:**  
+[Medical Device Failure Dataset (Anonymized)](https://www.kaggle.com/datasets/antoinepierreno/medical-device-failure-dataset-anonymized) — published on Kaggle by Antoine Pierreno.
+
+
 ---
 
 ## 📂 Project Structure
